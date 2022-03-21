@@ -1,5 +1,5 @@
 # exercise
 
-## test read me doc
+## branch doc
 
 version control exercise
